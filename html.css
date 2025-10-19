@@ -55,14 +55,12 @@ body {
   justify-content:space-around;
   text-align: center;
   padding: 20px;
-  gap: 10px;
 }
 .blok {
   background: white;
   border: 1px solid #aaa;
   padding: 20px;
-  width: 250px;
-  transition: 0.2s;
+  width: 350px;
 }
 .blok:hover {
   background: #2a4;
