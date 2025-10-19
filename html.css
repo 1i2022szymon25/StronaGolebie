@@ -96,7 +96,7 @@ body {
     min-width: 300px;
 }
 .formularz input, .formularz textarea {
-    width: 95%;
+    width: 90%;
     margin-bottom: 10px;
     padding: 8px;
     border: 1px solid #ccc;
